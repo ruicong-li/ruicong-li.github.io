@@ -40,7 +40,7 @@ body, html {
 
 /* Style the tab content */
 .tabcontent {
-  float: left;
+  float: right;
   padding: 0px 12px;
   border: 1px solid #ccc;
   width: 70%;
