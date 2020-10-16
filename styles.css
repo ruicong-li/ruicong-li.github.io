@@ -1,4 +1,10 @@
 * {box-sizing: border-box}
+/* Whole page tab bar */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
 
 /* Style the tab */
 .tab {
