@@ -1,3 +1,12 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
 /* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */
