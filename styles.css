@@ -34,6 +34,11 @@ p {
   color: #f1f1f1;
 }
 
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
 /* Style page content */
 .main {
   margin-left: 160px; /* Same as the width of the sidebar */
