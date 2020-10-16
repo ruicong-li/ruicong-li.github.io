@@ -34,9 +34,9 @@ p {
   color: #f1f1f1;
 }
 
-.active {
-  background-color: #4CAF50;
-  color: white;
+/* selected link */
+.sidenav a:active {
+  color: blue;
 }
 
 /* Style page content */
